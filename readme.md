@@ -8,10 +8,10 @@ To run the code, you need first download TCGA dataset from below following link 
 
 | **Cancer Type** | **URLs**                                                     |
 | --------------- | ------------------------------------------------------------ |
-| BRCA  (n=1057)  | [https://xenabrowser.net/datapages/?cohort=TCGA%20Breast%20Cancer%20(BRCA)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443](https://xenabrowser.net/datapages/?cohort=TCGA Breast Cancer (BRCA)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443) |
-| LUAD  (n=500)   | [https://xenabrowser.net/datapages/?cohort=TCGA%20Lung%20Adenocarcinoma%20(LUAD)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443](https://xenabrowser.net/datapages/?cohort=TCGA Lung Adenocarcinoma (LUAD)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443) |
-| GBM  (n=484)    | [https://xenabrowser.net/datapages/?cohort=TCGA%20Glioblastoma%20(GBM)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443](https://xenabrowser.net/datapages/?cohort=TCGA Glioblastoma (GBM)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443) |
-| SKCM  (n=358)   | [https://xenabrowser.net/datapages/?cohort=TCGA%20Melanoma%20(SKCM)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443](https://xenabrowser.net/datapages/?cohort=TCGA Melanoma (SKCM)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443) |
+| BRCA  (n=1057)  | https://xenabrowser.net/datapages/?cohort=TCGA%20Breast%20Cancer%20(BRCA)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443 |
+| LUAD  (n=500)   | https://xenabrowser.net/datapages/?cohort=TCGA%20Lung%20Adenocarcinoma%20(LUAD)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443 |
+| GBM  (n=484)    | https://xenabrowser.net/datapages/?cohort=TCGA%20Glioblastoma%20(GBM)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443 |
+| SKCM  (n=358)   | https://xenabrowser.net/datapages/?cohort=TCGA%20Melanoma%20(SKCM)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443 |
 
 The model is implemented by `Keras=2.2.4`. To analysis pathways, you need also install [Innvestigate package](https://github.com/albermax/innvestigate) 
 
